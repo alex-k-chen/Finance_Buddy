@@ -8,7 +8,7 @@ A modern, intuitive personal finance tracking application to help you manage you
 **[View Live App →](https://finance-buddy-ujvf.onrender.com)**
 
 > Note: First load may take ~30 seconds (free tier cold start). Once loaded, it's fast!
-
+ 
 ---
 
 ## ✨ Features
